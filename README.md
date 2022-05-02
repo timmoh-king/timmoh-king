@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @timmoh-king
-- 👀 I’m interested in code project development
-- 🌱 I’m currently learning C, C++, java, javascript, HTML, CSS, Php, MySQL
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning HTML, CSS, and javascript
 - 💞️ I’m looking to collaborate on project development
-- 📫 How to reach me Email: timothykariuki43@gmail.com Instagram: @_timmoh
+- 📫 How to reach me Email: timothykariuki43@gmail.com LinkedIn: Timothy (Munene) Kariuki
 
 <!---
 timmoh-king/timmoh-king is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
