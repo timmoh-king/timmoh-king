@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timmoh-king
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML, CSS, and javascript
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on project development
 - 📫 How to reach me Email: timothykariuki43@gmail.com LinkedIn: Timothy (Munene) Kariuki
 
