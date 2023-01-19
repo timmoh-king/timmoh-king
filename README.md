@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timmoh-king
-- 👀 I’m a full stack software developer apprentice
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on project development
+- 👀 I’m a full stack Software Developer
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on a software project
 - 📫 How to reach me Email: timothykariuki43@gmail.com LinkedIn: Timothy Kariuki
 
 <!---
