@@ -1,3 +1,4 @@
+- 🖥️ Cloud & DevOps Engineer | AI Focused
 - 👋 Hi, I’m Timothy Kariuki
 - 👀 I’m a techie who loves to optimize `technology and tools` to leverage opportunities
 - 🌱 I’m currently learning `Software Engineering` at `ALX Africa`
